@@ -1,0 +1,381 @@
+  MatchWeek,HomeTeam,AwayTeam
+1,Liverpool,AFC Bournemouth
+1,Aston Villa,Newcastle United
+1,Brighton & Hove Albion,Fulham
+1,Nottingham Forest,Brentford
+1,Sunderland,West Ham United
+1,Tottenham Hotspur,Burnley
+1,Wolverhampton Wanderers,Manchester City
+1,Chelsea,Crystal Palace
+1,Manchester United,Arsenal
+1,Leeds United,Everton
+1,AFC Bournemouth,Wolverhampton Wanderers
+1,Arsenal,Leeds United
+1,Brentford,Aston Villa
+1,Burnley,Sunderland
+1,Crystal Palace,Nottingham Forest
+1,Everton,Brighton & Hove Albion
+1,Fulham,Manchester United
+1,Manchester City,Tottenham Hotspur
+1,Newcastle United,Liverpool
+1,West Ham United,Chelsea
+1,Aston Villa,Crystal Palace
+1,Brighton & Hove Albion,Manchester City
+1,Chelsea,Fulham
+1,Leeds United,Newcastle United
+1,Liverpool,Arsenal
+1,Manchester United,Burnley
+1,Nottingham Forest,West Ham United
+1,Sunderland,Brentford
+1,Tottenham Hotspur,AFC Bournemouth
+1,Wolverhampton Wanderers,Everton
+1,AFC Bournemouth,Brighton & Hove Albion
+1,Arsenal,Nottingham Forest
+1,Brentford,Chelsea
+1,Burnley,Liverpool
+1,Crystal Palace,Sunderland
+1,Everton,Aston Villa
+1,Fulham,Leeds United
+1,Manchester City,Manchester United
+1,Newcastle United,Wolverhampton Wanderers
+1,West Ham United,Tottenham Hotspur
+1,AFC Bournemouth,Newcastle United
+1,Arsenal,Manchester City
+1,Brighton & Hove Albion,Tottenham Hotspur
+1,Burnley,Nottingham Forest
+1,Fulham,Brentford
+1,Liverpool,Everton
+1,Manchester United,Chelsea
+1,Sunderland,Aston Villa
+1,West Ham United,Crystal Palace
+1,Wolverhampton Wanderers,Leeds United
+1,Aston Villa,Fulham
+1,Brentford,Manchester United
+1,Chelsea,Brighton & Hove Albion
+1,Crystal Palace,Liverpool
+1,Everton,West Ham United
+1,Leeds United,AFC Bournemouth
+1,Manchester City,Burnley
+1,Newcastle United,Arsenal
+1,Nottingham Forest,Sunderland
+1,Tottenham Hotspur,Wolverhampton Wanderers
+1,AFC Bournemouth,Fulham
+1,Arsenal,West Ham United
+1,Aston Villa,Burnley
+1,Brentford,Manchester City
+1,Chelsea,Liverpool
+1,Everton,Crystal Palace
+1,Leeds United,Tottenham Hotspur
+1,Manchester United,Sunderland
+1,Newcastle United,Nottingham Forest
+1,Wolverhampton Wanderers,Brighton & Hove Albion
+1,Brighton & Hove Albion,Newcastle United
+1,Burnley,Leeds United
+1,Crystal Palace,AFC Bournemouth
+1,Fulham,Arsenal
+1,Liverpool,Manchester United
+1,Manchester City,Everton
+1,Nottingham Forest,Chelsea
+1,Sunderland,Wolverhampton Wanderers
+1,Tottenham Hotspur,Aston Villa
+1,West Ham United,Brentford
+1,AFC Bournemouth,Nottingham Forest
+1,Arsenal,Crystal Palace
+1,Aston Villa,Manchester City
+1,Brentford,Liverpool
+1,Chelsea,Sunderland
+1,Everton,Tottenham Hotspur
+1,Leeds United,West Ham United
+1,Manchester United,Brighton & Hove Albion
+1,Newcastle United,Fulham
+1,Wolverhampton Wanderers,Burnley
+1,Brighton & Hove Albion,Leeds United
+1,Burnley,Arsenal
+1,Crystal Palace,Brentford
+1,Fulham,Wolverhampton Wanderers
+1,Liverpool,Aston Villa
+1,Manchester City,AFC Bournemouth
+1,Nottingham Forest,Manchester United
+1,Sunderland,Everton
+1,Tottenham Hotspur,Chelsea
+1,West Ham United,Newcastle United
+1,Aston Villa,AFC Bournemouth
+1,Brentford,Newcastle United
+1,Chelsea,Wolverhampton Wanderers
+1,Crystal Palace,Brighton & Hove Albion
+1,Everton,Fulham
+1,Manchester City,Liverpool
+1,Nottingham Forest,Leeds United
+1,Sunderland,Arsenal
+1,Tottenham Hotspur,Manchester United
+1,West Ham United,Burnley
+1,AFC Bournemouth,West Ham United
+1,Arsenal,Tottenham Hotspur
+1,Brighton & Hove Albion,Brentford
+1,Burnley,Chelsea
+1,Fulham,Sunderland
+1,Leeds United,Aston Villa
+1,Liverpool,Nottingham Forest
+1,Manchester United,Everton
+1,Newcastle United,Manchester City
+1,Wolverhampton Wanderers,Crystal Palace
+1,Aston Villa,Wolverhampton Wanderers
+1,Brentford,Burnley
+1,Chelsea,Arsenal
+1,Crystal Palace,Manchester United
+1,Everton,Newcastle United
+1,Manchester City,Leeds United
+1,Nottingham Forest,Brighton & Hove Albion
+1,Sunderland,AFC Bournemouth
+1,Tottenham Hotspur,Fulham
+1,West Ham United,Liverpool
+1,AFC Bournemouth,Everton
+1,Arsenal,Brentford
+1,Brighton & Hove Albion,Aston Villa
+1,Burnley,Crystal Palace
+1,Fulham,Manchester City
+1,Leeds United,Chelsea
+1,Liverpool,Sunderland
+1,Manchester United,West Ham United
+1,Newcastle United,Tottenham Hotspur
+1,Wolverhampton Wanderers,Nottingham Forest
+1,AFC Bournemouth,Chelsea
+1,Aston Villa,Arsenal
+1,Brighton & Hove Albion,West Ham United
+1,Everton,Nottingham Forest
+1,Fulham,Crystal Palace
+1,Leeds United,Liverpool
+1,Manchester City,Sunderland
+1,Newcastle United,Burnley
+1,Tottenham Hotspur,Brentford
+1,Wolverhampton Wanderers,Manchester United
+1,Arsenal,Wolverhampton Wanderers
+1,Brentford,Leeds United
+1,Burnley,Fulham
+1,Chelsea,Everton
+1,Crystal Palace,Manchester City
+1,Liverpool,Brighton & Hove Albion
+1,Manchester United,AFC Bournemouth
+1,Nottingham Forest,Tottenham Hotspur
+1,Sunderland,Newcastle United
+1,West Ham United,Aston Villa
+1,AFC Bournemouth,Burnley
+1,Aston Villa,Manchester United
+1,Brighton & Hove Albion,Sunderland
+1,Everton,Arsenal
+1,Fulham,Nottingham Forest
+1,Leeds United,Crystal Palace
+1,Manchester City,West Ham United
+1,Newcastle United,Chelsea
+1,Tottenham Hotspur,Liverpool
+1,Wolverhampton Wanderers,Brentford
+1,Arsenal,Brighton & Hove Albion
+1,Brentford,AFC Bournemouth
+1,Burnley,Everton
+1,Chelsea,Aston Villa
+1,Crystal Palace,Tottenham Hotspur
+1,Liverpool,Wolverhampton Wanderers
+1,Manchester United,Newcastle United
+1,Nottingham Forest,Manchester City
+1,Sunderland,Leeds United
+1,West Ham United,Fulham
+1,Arsenal,Aston Villa
+1,Brentford,Tottenham Hotspur
+1,Burnley,Newcastle United
+1,Chelsea,AFC Bournemouth
+1,Crystal Palace,Fulham
+1,Liverpool,Leeds United
+1,Manchester United,Wolverhampton Wanderers
+1,Nottingham Forest,Everton
+1,Sunderland,Manchester City
+1,West Ham United,Brighton & Hove Albion
+1,AFC Bournemouth,Arsenal
+1,Aston Villa,Nottingham Forest
+1,Brighton & Hove Albion,Burnley
+1,Everton,Brentford
+1,Fulham,Liverpool
+1,Leeds United,Manchester United
+1,Manchester City,Chelsea
+1,Newcastle United,Crystal Palace
+1,Tottenham Hotspur,Sunderland
+1,Wolverhampton Wanderers,West Ham United
+1,AFC Bournemouth,Tottenham Hotspur
+1,Arsenal,Liverpool
+1,Brentford,Sunderland
+1,Burnley,Manchester United
+1,Crystal Palace,Aston Villa
+1,Everton,Wolverhampton Wanderers
+1,Fulham,Chelsea
+1,Manchester City,Brighton & Hove Albion
+1,Newcastle United,Leeds United
+1,West Ham United,Nottingham Forest
+1,Aston Villa,Everton
+1,Brighton & Hove Albion,AFC Bournemouth
+1,Chelsea,Brentford
+1,Leeds United,Fulham
+1,Liverpool,Burnley
+1,Manchester United,Manchester City
+1,Nottingham Forest,Arsenal
+1,Sunderland,Crystal Palace
+1,Tottenham Hotspur,West Ham United
+1,Wolverhampton Wanderers,Newcastle United
+1,AFC Bournemouth,Liverpool
+1,Arsenal,Manchester United
+1,Brentford,Nottingham Forest
+1,Burnley,Tottenham Hotspur
+1,Crystal Palace,Chelsea
+1,Everton,Leeds United
+1,Fulham,Brighton & Hove Albion
+1,Manchester City,Wolverhampton Wanderers
+1,Newcastle United,Aston Villa
+1,West Ham United,Sunderland
+1,Aston Villa,Brentford
+1,Brighton & Hove Albion,Everton
+1,Chelsea,West Ham United
+1,Leeds United,Arsenal
+1,Liverpool,Newcastle United
+1,Manchester United,Fulham
+1,Nottingham Forest,Crystal Palace
+1,Sunderland,Burnley
+1,Tottenham Hotspur,Manchester City
+1,Wolverhampton Wanderers,AFC Bournemouth
+1,AFC Bournemouth,Aston Villa
+1,Arsenal,Sunderland
+1,Brighton & Hove Albion,Crystal Palace
+1,Burnley,West Ham United
+1,Fulham,Everton
+1,Leeds United,Nottingham Forest
+1,Liverpool,Manchester City
+1,Manchester United,Tottenham Hotspur
+1,Newcastle United,Brentford
+1,Wolverhampton Wanderers,Chelsea
+1,Aston Villa,Brighton & Hove Albion
+1,Brentford,Arsenal
+1,Chelsea,Leeds United
+1,Crystal Palace,Burnley
+1,Everton,AFC Bournemouth
+1,Manchester City,Fulham
+1,Nottingham Forest,Wolverhampton Wanderers
+1,Sunderland,Liverpool
+1,Tottenham Hotspur,Newcastle United
+1,West Ham United,Manchester United
+1,Aston Villa,Leeds United
+1,Brentford,Brighton & Hove Albion
+1,Chelsea,Burnley
+1,Crystal Palace,Wolverhampton Wanderers
+1,Everton,Manchester United
+1,Manchester City,Newcastle United
+1,Nottingham Forest,Liverpool
+1,Sunderland,Fulham
+1,Tottenham Hotspur,Arsenal
+1,West Ham United,AFC Bournemouth
+1,AFC Bournemouth,Sunderland
+1,Arsenal,Chelsea
+1,Brighton & Hove Albion,Nottingham Forest
+1,Burnley,Brentford
+1,Fulham,Tottenham Hotspur
+1,Leeds United,Manchester City
+1,Liverpool,West Ham United
+1,Manchester United,Crystal Palace
+1,Newcastle United,Everton
+1,Wolverhampton Wanderers,Aston Villa
+1,AFC Bournemouth,Brentford
+1,Aston Villa,Chelsea
+1,Brighton & Hove Albion,Arsenal
+1,Everton,Burnley
+1,Fulham,West Ham United
+1,Leeds United,Sunderland
+1,Manchester City,Nottingham Forest
+1,Newcastle United,Manchester United
+1,Tottenham Hotspur,Crystal Palace
+1,Wolverhampton Wanderers,Liverpool
+1,Arsenal,Everton
+1,Brentford,Wolverhampton Wanderers
+1,Burnley,AFC Bournemouth
+1,Chelsea,Newcastle United
+1,Crystal Palace,Leeds United
+1,Liverpool,Tottenham Hotspur
+1,Manchester United,Aston Villa
+1,Nottingham Forest,Fulham
+1,Sunderland,Brighton & Hove Albion
+1,West Ham United,Manchester City
+1,AFC Bournemouth,Manchester United
+1,Aston Villa,West Ham United
+1,Brighton & Hove Albion,Liverpool
+1,Everton,Chelsea
+1,Fulham,Burnley
+1,Leeds United,Brentford
+1,Manchester City,Crystal Palace
+1,Newcastle United,Sunderland
+1,Tottenham Hotspur,Nottingham Forest
+1,Wolverhampton Wanderers,Arsenal
+1,Arsenal,AFC Bournemouth
+1,Brentford,Everton
+1,Burnley,Brighton & Hove Albion
+1,Chelsea,Manchester City
+1,Crystal Palace,Newcastle United
+1,Liverpool,Fulham
+1,Manchester United,Leeds United
+1,Nottingham Forest,Aston Villa
+1,Sunderland,Tottenham Hotspur
+1,West Ham United,Wolverhampton Wanderers
+1,Aston Villa,Sunderland
+1,Brentford,Fulham
+1,Chelsea,Manchester United
+1,Crystal Palace,West Ham United
+1,Everton,Liverpool
+1,Leeds United,Wolverhampton Wanderers
+1,Manchester City,Arsenal
+1,Newcastle United,AFC Bournemouth
+1,Nottingham Forest,Burnley
+1,Tottenham Hotspur,Brighton & Hove Albion
+1,AFC Bournemouth,Leeds United
+1,Arsenal,Newcastle United
+1,Brighton & Hove Albion,Chelsea
+1,Burnley,Manchester City
+1,Fulham,Aston Villa
+1,Liverpool,Crystal Palace
+1,Manchester United,Brentford
+1,Sunderland,Nottingham Forest
+1,West Ham United,Everton
+1,Wolverhampton Wanderers,Tottenham Hotspur
+1,AFC Bournemouth,Crystal Palace
+1,Arsenal,Fulham
+1,Aston Villa,Tottenham Hotspur
+1,Brentford,West Ham United
+1,Chelsea,Nottingham Forest
+1,Everton,Manchester City
+1,Leeds United,Burnley
+1,Manchester United,Liverpool
+1,Newcastle United,Brighton & Hove Albion
+1,Wolverhampton Wanderers,Sunderland
+1,Brighton & Hove Albion,Wolverhampton Wanderers
+1,Burnley,Aston Villa
+1,Crystal Palace,Everton
+1,Fulham,AFC Bournemouth
+1,Liverpool,Chelsea
+1,Manchester City,Brentford
+1,Nottingham Forest,Newcastle United
+1,Sunderland,Manchester United
+1,Tottenham Hotspur,Leeds United
+1,West Ham United,Arsenal
+1,AFC Bournemouth,Manchester City
+1,Arsenal,Burnley
+1,Aston Villa,Liverpool
+1,Brentford,Crystal Palace
+1,Chelsea,Tottenham Hotspur
+1,Everton,Sunderland
+1,Leeds United,Brighton & Hove Albion
+1,Manchester United,Nottingham Forest
+1,Newcastle United,West Ham United
+1,Wolverhampton Wanderers,Fulham
+1,Brighton & Hove Albion,Manchester United
+1,Burnley,Wolverhampton Wanderers
+1,Crystal Palace,Arsenal
+1,Fulham,Newcastle United
+1,Liverpool,Brentford
+1,Manchester City,Aston Villa
+1,Nottingham Forest,AFC Bournemouth
+1,Sunderland,Chelsea
+1,Tottenham Hotspur,Everton
+1,West Ham United,Leeds United
